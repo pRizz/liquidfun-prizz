@@ -1,0 +1,19 @@
+{
+  "name": "liquidfun-prizz",
+  "version": "1.0.0",
+  "description": "Provides Google's liquidfun library as an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pRizz@github.com/pRizz/liquidfun-prizz.git"
+  },
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/liquidfun-prizz/issues"
+  },
+  "homepage": "https://github.com/pRizz/liquidfun-prizz#readme"
+}
